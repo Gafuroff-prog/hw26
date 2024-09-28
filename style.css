@@ -1,0 +1,244 @@
+body{
+    background-image: url(img/back.png);
+    background-repeat: no-repeat;
+}
+.nav{
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    margin-top: 20px;
+    margin-left: 40px;
+   
+}
+.boxfree{
+    background-color:#009FF5B5;
+    width: 180px;
+    height: 45px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    color: white;
+    box-shadow: 0px 5px 4px white;
+    margin-top: 13px;
+    margin-left: 100px;
+}
+.play{
+    text-transform: uppercase;
+    margin-left: 14px;
+}
+.steam{
+    margin-left: 8px;
+}
+.boxfree:hover{
+    background-color: red;
+    transition: all 1s;
+    
+}
+.player{
+    margin-left: 30px;
+    color: #D5D5D6;
+    text-shadow: 0px 3px 5px black;
+    font-size: 18px;
+    margin-top: 30px;
+}
+.player:hover{
+    color: red;
+    transition: all 1s;
+}
+.lang{
+    margin-left: 500px;
+    margin-top:30px;
+    color: #D5D5D6;
+    text-shadow: 0px 3px 5px black;
+}
+.lang:hover{
+    color: red;
+    transition: all 1s;
+}
+.select{
+    margin-top:17px;
+    margin-left: 10px;
+}
+.bestbtn{
+    width: 300px;
+    height: 50px;
+    background-color: yellow;
+    border: 11px solid #5A5555;
+    border-radius: 50px;
+    font-size: 20px;
+    text-shadow: 0px 3px 5px blue;
+    text-align: center;
+    align-content: center;
+    margin-top: 150px;
+    margin-left:490px;
+}
+.bestbtn:hover{
+    background-color: red;
+    transition: all 1s;
+    color: white;
+}
+.simple{
+    width: 301px;
+    height: 350px;
+    background-color: #5A5555;
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 0px 3px 5px yellow;
+    box-shadow: 5px 5px 10px white;
+    margin-left: 30px;
+    margin-top: 100px;
+    
+}
+.simple2{
+    width: 300px;
+    height: 300px;
+}
+.zywo1{
+    width: 300px;
+    height: 300px;
+}
+.zywo{
+    width: 301px;
+    height: 350px;
+    background-color: #5A5555;
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 0px 3px 5px yellow;
+    box-shadow: 5px 5px 10px white;
+    margin-left: 530px;
+    margin-bottom: 30px;
+    margin-top: -350px;
+}
+.niko{
+    width: 301px;
+    height: 350px;
+    background-color: #5A5555;
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 0px 3px 5px yellow;
+    box-shadow: 5px 5px 10px white;
+    margin-left: 999px;
+    margin-bottom: 30px;
+    margin-top: -380px;
+}
+.niko1{
+    width: 300px;
+    height: 300px;
+}
+.body2{
+    background-color: black;
+    height: 1000px;
+    width: 1370px;
+    margin-top: 100px;
+    margin-left: -30px;
+}
+.info{
+    font-size: 50px;
+    color: #5A5555;
+    text-align: center;
+    text-shadow: 0px 3px 3px white;
+    
+}
+.gamers{
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+}
+.gamerstext{
+    font-size: 30px;
+    color: white;
+    width: 600px;
+    margin-left: 700px;
+    margin-top: -100px;
+}
+.morebtn{
+    background-color:gray;
+    width: 180px;
+    height: 45px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    color: white;
+    box-shadow: 0px 5px 10px white;
+    margin-top: 60px;
+    margin-left: 100px;
+    font-size: 20px;
+    margin-left: 700px;
+    text-align: center;
+    align-content: center;
+}
+.morebtn:hover{
+    background-color: red;
+    transition: all 1s;
+}
+.more{
+    text-align: center;
+    margin-left: 45px;
+}
+.gamerstext2{
+    font-size: 30px;
+    color: white;
+    width: 600px;
+    margin-left: 50px;
+    margin-top: 170px;
+}
+.gamers2{
+    width: 100px;
+    height: 100px;
+    margin-left: 750px;
+    margin-top: -250px;
+}
+.morebtn2{
+    background-color:yellow;
+    width: 180px;
+    height: 45px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    color: black;
+    box-shadow: 0px 5px 10px white;
+    margin-top: 200px;
+    margin-left: -10px;
+    font-size: 20px;
+    margin-left: 50px;
+    text-align: center;
+    align-content: center;
+    margin-right: 100px;
+}
+.morebtn2:hover{
+    background-color: red;
+    transition: all 1s;
+    color: white;
+}   
+.read{
+    text-align: center;
+    margin-left: 45px;
+}
+.footer{
+    display: flex;
+    align-items: center;
+    background-color:#FFC611;
+    height: 100px;
+    width: 1350px;
+    margin-left: -10px;
+}
+.logopng{
+   margin-left: 30px;
+}
+.tg{
+    margin-left: 950px;
+    
+}
+.insta{
+    margin-left: 40px;
+}
+.fb{
+    margin-left: 40px;
+}
+
+
+
+
+
